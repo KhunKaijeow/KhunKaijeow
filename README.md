@@ -73,6 +73,8 @@ Others:
 
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=khunkaijeow&layout=compact&theme=algolia)](https://github.com/khunkaijeow)
 
-<a href="https://app.daily.dev/khunkj"><img src="https://api.daily.dev/devcards/v2/X93rNLZfLVNeilIKOIovE.png?type=wide&r=ejf" width="652" alt="Sureenipa Chaikaew's Dev Card"/ align="center"></a>
 
+<div align="right">
+    <a href="https://app.daily.dev/khunkj"><img src="https://api.daily.dev/devcards/v2/X93rNLZfLVNeilIKOIovE.png?type=wide&r=ejf" width="652" alt="Sureenipa Chaikaew's Dev Card"/></a>
+</div>
 <br />
