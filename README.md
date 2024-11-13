@@ -1,14 +1,18 @@
 # Hi, I'm Sureenipa Chaikaew (Kaijeow) 👋
 
 <div align="left">
-
-[![](https://img.shields.io/badge/linkedin-%230077B5.svg?style=for-the-badge&logo=linkedin)](https://www.linkedin.com/in/thanaphoom-babparn/)
-[![](https://img.shields.io/badge/Medium-12100E?style=for-the-badge&logo=medium&logoColor=white)](https://medium.com/@tpbabparn)
-
-<a href="https://app.daily.dev/khunkj"><img src="https://api.daily.dev/devcards/v2/X93rNLZfLVNeilIKOIovE.png?type=default&r=ejf" width="356" alt="Sureenipa Chaikaew's Dev Card"/></a>
-
+      <a href="https://twitter.com/khuniii">
+    <img
+      src="https://img.shields.io/badge/Twitter-1DA1F2?style=for-the-badge&logo=twitter&logoColor=whiter"
+    />
+  </a>
+  <a href="https://www.linkedin.com/in/kjkaijeow/">
+    <img
+      src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white"
+    />
+  </a>
+    <a href="https://app.daily.dev/khunkj"><img src="https://api.daily.dev/devcards/v2/X93rNLZfLVNeilIKOIovE.png?type=default&r=ejf" width="356" alt="Sureenipa Chaikaew's Dev Card"/></a>
 </div>
-
 
 ## Talking about me 👀
 
