@@ -2,7 +2,6 @@
 
 [![](https://img.shields.io/badge/linkedin-%230077B5.svg?style=for-the-badge&logo=linkedin)](https://www.linkedin.com/in/thanaphoom-babparn/)
 [![](https://img.shields.io/badge/Medium-12100E?style=for-the-badge&logo=medium&logoColor=white)](https://medium.com/@tpbabparn)
-<a href="https://app.daily.dev/khunkj"><img src="https://api.daily.dev/devcards/v2/X93rNLZfLVNeilIKOIovE.png?type=wide&r=ejf" width="500" alt="Sureenipa Chaikaew's Dev Card"/></a>
 
 
 ## Talking about me 👀
@@ -73,5 +72,7 @@ Others:
 [![All Stats](https://github-readme-stats.vercel.app/api?username=khunkaijeow&show_icons=true&theme=algolia)](https://github.com/khunkaijeow)
 
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=khunkaijeow&layout=compact&theme=algolia)](https://github.com/khunkaijeow)
+
+<a href="https://app.daily.dev/khunkj"><img src="https://api.daily.dev/devcards/v2/X93rNLZfLVNeilIKOIovE.png?type=wide&r=ejf" width="652" alt="Sureenipa Chaikaew's Dev Card"/></a>
 
 <br />
